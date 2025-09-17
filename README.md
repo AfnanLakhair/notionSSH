@@ -298,6 +298,9 @@ cargo build --release
 
 ## 라이센스
 
+## 보안
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmirseo%2FnotionSSH.svg?type=large&issueType=license)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmirseo%2FnotionSSH?ref=badge_large&issueType=license)
+
 이 프로젝트는 MIT 라이센스를 따릅니다.  
 자유로운 수정, 재배포, 2차 창작을 포함한 라이센스 전역을 허용합니다.
 
